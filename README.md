@@ -17,3 +17,6 @@
   * **Topic Definition**: Small organizations including non-profits, schools, and local government agencies have been severely impacted by ransomware attacks.  This project would involve research into ransomware methods - and effective defensive strategies with a focus on organizations that have limited IT expertise and resource constraints.  Deliverables would include both technical and procedural best practice guides, development of a training seminar, and likely working with some local organizations to directly improve their defensive/recovery capabilities.
   * **Overview**: Having my background in CNCS, I'd like to demonstrate my abiltiies in researching and implementing defensive cyber security methods as well as selling this to clients.
   * **Description**: This would eb doing research into security methods and the organizations I'd be working with. As well as making a report on my findings and where improvements can be made for the client.
+
+## References
+* [References](https://github.com/seabar24/Capstone/wiki#references)
