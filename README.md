@@ -1,5 +1,5 @@
 # Capstone
-> Main Hub for Capstone Project Progress and Project ideas.
+> Main Hub for Capstone Project Progress and Project Idea.
 ## Capstone Project Progress
 * [Capstone Project Progress](https://github.com/users/seabar24/projects/2)
 
