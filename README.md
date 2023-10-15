@@ -5,7 +5,7 @@
 
 ## Overview
 
-![image](https://github.com/seabar24/Capstone/assets/71162295/6404fb8e-a675-4a41-87d5-1bf13fb2e466)
+![image](https://github.com/seabar24/Capstone/assets/71162295/28cb2f46-814c-4afe-a93e-9b63f2f00550)
 
 ## Capstone Project ideas
 * Project idea 1 - Optimizing IoT Devices with 802.11ax and Comparison/Contrast of v4, v5, v6.
