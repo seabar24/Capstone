@@ -7,6 +7,9 @@
 
 ![image](https://github.com/seabar24/Capstone/assets/71162295/e4bfeaa5-7a0a-4430-b606-6cfed7486fa4)
 
+## Mindmap Link
+> Link to mindmap w/ comments.
+* [Mindmap Link](https://drive.mindmup.com/map/1R8EBa6PI2j-Inq2aMGillYrc-WuBF6wt)
 
 ## Capstone Project ideas
 * Project idea 1 - Optimizing IoT Devices with 802.11ax and Comparison/Contrast of v4, v5, v6.
