@@ -15,3 +15,5 @@
 * Tasks to Do for Next Week: Network Design, 2 pages for Written proposal, Meet with Katheryn and Joe.
 
 ### Week 2
+
+* Tasks to Do for Next Week: 
