@@ -11,6 +11,11 @@
 > Link to mindmap w/ comments.
 * [Mindmap Link](https://drive.mindmup.com/map/1R8EBa6PI2j-Inq2aMGillYrc-WuBF6wt)
 
+## Design Projects
+
+* [Design Project 1](https://github.com/seabar24/Capstone/blob/Home/DesignProject1.md)
+* [Design Project 2](https://github.com/seabar24/Capstone/blob/Home/DesignProject2.md)
+
 ## Sprint 1 Slides
 > Shows slides and progress from the first Sprint.
 * [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Sprint%201.pdf)
