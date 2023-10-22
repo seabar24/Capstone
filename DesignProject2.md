@@ -12,8 +12,8 @@
 
 * Research into software that can track the metrics for the Wifi 6 connections has been found. My main two ideas were OpenWrt and ath11k, with OpenWrt being a Linux OS and ath11k being a Linux Driver.
 * Hardware research into possible Wifi 6 Access Point to use, known as Aruba.
-* Tasks to Do for Next Week: Network Design, 2 pages for Written proposal, Meet with Katheryn and Joe.
+* **Tasks to Do for Next Week:** Network Design, 2 pages for Written proposal, Meet with Katheryn and Joe.
 
 ### Week 2
 
-* Tasks to Do for Next Week: 
+* **Tasks to Do for Next Week:** 
