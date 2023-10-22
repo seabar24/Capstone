@@ -3,12 +3,15 @@
 
 ## Project Information
 
-* [Project Milestone]()
-* [Project Kanban]()
+* [Project Milestone](https://github.com/seabar24/Capstone/milestone/2)
+* [Project Kanban](https://github.com/users/seabar24/projects/2/views/3)
 
 ## Tasks
 
-### Week 1 - Research
+### Week 1
 
 * Research into software that can track the metrics for the Wifi 6 connections has been found. My main two ideas were OpenWrt and ath11k, with OpenWrt being a Linux OS and ath11k being a Linux Driver.
 * Hardware research into possible Wifi 6 Access Point to use, known as Aruba.
+* Tasks to Do for Next Week: Network Design, 2 pages for Written proposal, Meet with Katheryn and Joe.
+
+### Week 2
