@@ -12,7 +12,7 @@
 * [Mindmap Link](https://drive.mindmup.com/map/1R8EBa6PI2j-Inq2aMGillYrc-WuBF6wt)
 
 ## Design Projects
-
+> Links to Design projects
 * [Design Project 1](https://github.com/seabar24/Capstone/blob/Home/DesignProject1.md)
 * [Design Project 2](https://github.com/seabar24/Capstone/blob/Home/DesignProject2.md)
 
