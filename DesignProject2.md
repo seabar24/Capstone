@@ -18,4 +18,9 @@
 
 * [Network Diagram](https://drive.google.com/file/d/1RGTPOfMt0mzl4Y3BG0U2a9DHe11l-UiV/view?usp=drive_link) is done, though as project goes along, may update it.
 * Met with Joe Eastman. Going to continue with project and may meet a 2nd time for a progress update on project before end of Sprint 2.
-* **Tasks to Do for Next Week:** 
+* **Tasks to Do for Next Week: Meet with Katheryn Wright for 2nd time, Write 2 pages for proposal, narrow down what industry of IoT Devices to look into**
+
+### Week 3
+
+* 
+* **Tasks to Do for Final Week:**
