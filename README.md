@@ -9,7 +9,7 @@
 
 ## Mindmap Link
 > Link to mindmap w/ comments.
-* [Mindmap Link](https://drive.mindmup.com/map/1R8EBa6PI2j-Inq2aMGillYrc-WuBF6wt)
+* [Mindmap Link](https://drive.google.com/file/d/1R8EBa6PI2j-Inq2aMGillYrc-WuBF6wt/view?usp=sharing)
 
 ## Design Projects
 > Links to Design projects
