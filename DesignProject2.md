@@ -22,5 +22,11 @@
 
 ### Week 3
 
-* 
-* **Tasks to Do for Final Week:**
+* Research into Wifi Further. Learned more about the comparisons and differences of Wifi 5 and 6.
+* Contacted Ryan Gillen about possibly working in the IoT lab at the Leahy Center.
+* Updated Mindmap with new notes.
+* **Tasks to Do for Final Week: Meet with Joe Eastman before Demo is due (planned for 11/6 @ 10:15 am). Get further contact and confirmation from Ryan Gillen about Leahy Center collaboration. Finalize details for demo and work on paper for Katheryn Wright.**
+
+### Week 4
+
+*
