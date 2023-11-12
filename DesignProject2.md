@@ -29,4 +29,6 @@
 
 ### Week 4
 
-*
+* Changed from working at Leahy to being able to use IoT lab. Waiting for Tom C. to respond about getting in lab to research and see what it's got.
+* A lot more limited this week due to testing positive with Covid.
+* Need to finish demo presentation for "proof-of-concept" presentation.
