@@ -5,6 +5,7 @@
 
 * [Project Milestone](https://github.com/seabar24/Capstone/milestone/2)
 * [Project Kanban](https://github.com/users/seabar24/projects/2/views/3)
+* [Project Presentation](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Design%20Project%202.pdf)
 
 ## Tasks
 
