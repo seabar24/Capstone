@@ -19,7 +19,7 @@
 ## Sprint 1 + 2 Slides
 > Shows slides and progress from the first and second Sprint.
 * [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Sprint%201.pdf)
-* [Capstone Sprint 2]()
+* [Capstone Sprint 2](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Design%20Project%202.pdf)
 
 ## Capstone Project ideas
 * Project idea 1 - Optimizing IoT Devices with 802.11ax and Comparison/Contrast of v4, v5, v6.
