@@ -2,6 +2,7 @@
 > Main Hub for Capstone Project Progress and Project Idea.
 ## Capstone Project Progress
 * [Capstone Project Progress](https://github.com/users/seabar24/projects/2)
+* [Capstone Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection)
 
 ## Overview
 
@@ -16,7 +17,7 @@
 * [Design Project 1](https://github.com/seabar24/Capstone/blob/Home/DesignProject1.md)
 * [Design Project 2](https://github.com/seabar24/Capstone/blob/Home/DesignProject2.md)
 
-## Sprint 1 + 2 Slides
+## First Semester Sprint 1 + 2 Slides
 > Shows slides and progress from the first and second Sprint.
 * [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Sprint%201.pdf)
 * [Capstone Sprint 2](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Design%20Project%202.pdf)
