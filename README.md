@@ -24,7 +24,7 @@
 
 ## Second Semester Sprints
 > Links to each Sprint deliverables, objectives, and tasks. As well as a link to that sprint's weekly reflections
-* [Capstone Sprint 1]()
+* [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone2Sprint1.md)
 
 ## Capstone Project ideas
 * Project idea 1 - Optimizing IoT Devices with 802.11ax and Comparison/Contrast of v4, v5, v6.
