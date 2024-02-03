@@ -3,10 +3,14 @@
 
 * [Kanban Board](https://github.com/users/seabar24/projects/3)
 
-## Deliverable Statment
+## Deliverable Statement
 
 ## Objectives
 
 ## Discrete Tasks
+- Meet with Joe Eastman in the second week
+- Buy Hardware
+- Setup APs in LAN Network
 
 ## Weekly Reflection
+- [Weekly Reflection]()
