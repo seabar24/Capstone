@@ -22,6 +22,10 @@
 * [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Sprint%201.pdf)
 * [Capstone Sprint 2](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Design%20Project%202.pdf)
 
+## Second Semester Sprints
+> Links to each Sprint deliverables, objectives, and tasks. As well as a link to that sprint's weekly reflections
+* [Capstone Sprint 1]()
+
 ## Capstone Project ideas
 * Project idea 1 - Optimizing IoT Devices with 802.11ax and Comparison/Contrast of v4, v5, v6.
   * **Topic Definition**: IoT Devices are prevalent in todays world and need a way to be secured for customers. Usually these IoT devices will be on customer's home wifi, with these devices being on Wifi 4 or 5. Wifi 6 is coming with a more secure encryption and faster speeds, and this capstone aims to see how IoT devies can be optimized with Wifi 6. While also comparing and contrasting older versions of 802.11. This would be comparing speeds, encryption methods, accessibility, and etc. Testing for vulnerabilites from older versions and v6. This can be used as a selling point to a client for why they should purchase or switch over to Wifi 6.
