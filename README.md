@@ -3,6 +3,7 @@
 ## Capstone Project Progress
 * [Capstone Project Progress](https://github.com/users/seabar24/projects/3)
 * [Capstone Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection)
+* [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone2Sprint1.md)
 
 ## Overview
 
