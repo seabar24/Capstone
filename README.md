@@ -1,7 +1,7 @@
 # Capstone
 > Main Hub for Capstone Project Progress and Project Idea.
 ## Capstone Project Progress
-* [Capstone Project Progress](https://github.com/users/seabar24/projects/2)
+* [Capstone Project Progress](https://github.com/users/seabar24/projects/3)
 * [Capstone Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection)
 
 ## Overview
