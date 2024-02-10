@@ -5,7 +5,7 @@
 * [Network Diagram]()
 
 ## Deliverable Statement
-The purpose of this sprint is to setup the ground work for the sprints to come. This will involve getting the intial harwdare for the LAN network setup and configured to be ready for testing and "tweaking" IoT devices. 
+The purpose of this sprint is to setup the ground work for the sprints to come. This will involve getting the intial harwdare for the LAN network setup and configured to be ready for testing and "tweaking" IoT devices. This sprint will also involve prepping for other upcoming sprints which include repeatable tasks such as meetings, data, network diagram, and etc.
 ## Objectives
 - Setup Network
 - Update Github page.
