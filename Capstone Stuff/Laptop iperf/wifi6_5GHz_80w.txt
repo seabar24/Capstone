@@ -1,0 +1,45 @@
+-----------------------------------------------------------
+Server listening on 5201
+-----------------------------------------------------------
+Accepted connection from 192.168.102.33, port 58663
+[  5] local 192.168.102.33 port 5201 connected to 192.168.102.33 port 58664
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-1.01   sec   638 MBytes  5.29 Gbits/sec                  
+[  5]   1.01-2.01   sec   432 MBytes  3.63 Gbits/sec                  
+[  5]   2.01-3.01   sec   435 MBytes  3.66 Gbits/sec                  
+[  5]   3.01-4.00   sec   669 MBytes  5.64 Gbits/sec                  
+[  5]   4.00-5.00   sec   615 MBytes  5.17 Gbits/sec                  
+[  5]   5.00-6.01   sec   535 MBytes  4.46 Gbits/sec                  
+[  5]   6.01-7.00   sec   549 MBytes  4.63 Gbits/sec                  
+[  5]   7.00-8.00   sec   808 MBytes  6.77 Gbits/sec                  
+[  5]   8.00-9.00   sec   601 MBytes  5.03 Gbits/sec                  
+[  5]   9.00-10.01  sec   783 MBytes  6.54 Gbits/sec                  
+[  5]  10.01-11.00  sec   571 MBytes  4.82 Gbits/sec                  
+[  5]  11.00-12.00  sec   684 MBytes  5.74 Gbits/sec                  
+[  5]  12.00-13.00  sec   804 MBytes  6.74 Gbits/sec                  
+[  5]  13.00-14.01  sec   718 MBytes  5.99 Gbits/sec                  
+[  5]  14.01-15.00  sec   656 MBytes  5.51 Gbits/sec                  
+[  5]  15.00-16.00  sec   663 MBytes  5.58 Gbits/sec                  
+[  5]  16.00-17.01  sec   825 MBytes  6.86 Gbits/sec                  
+[  5]  17.01-18.01  sec   743 MBytes  6.25 Gbits/sec                  
+[  5]  18.01-19.00  sec   754 MBytes  6.36 Gbits/sec                  
+[  5]  19.00-20.01  sec   640 MBytes  5.30 Gbits/sec                  
+[  5]  20.01-21.01  sec   559 MBytes  4.70 Gbits/sec                  
+[  5]  21.01-22.01  sec   771 MBytes  6.47 Gbits/sec                  
+[  5]  22.01-23.01  sec   494 MBytes  4.17 Gbits/sec                  
+[  5]  23.01-24.00  sec   757 MBytes  6.38 Gbits/sec                  
+[  5]  24.00-25.01  sec   799 MBytes  6.65 Gbits/sec                  
+[  5]  25.01-26.00  sec   595 MBytes  5.04 Gbits/sec                  
+[  5]  26.00-27.01  sec   515 MBytes  4.28 Gbits/sec                  
+[  5]  27.01-28.00  sec   524 MBytes  4.42 Gbits/sec                  
+[  5]  28.00-29.00  sec   510 MBytes  4.29 Gbits/sec                  
+[  5]  29.00-30.01  sec   415 MBytes  3.45 Gbits/sec                  
+[  5]  30.01-30.01  sec  0.00 Bytes  0.00 bits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-30.01  sec  0.00 Bytes  0.00 bits/sec                  sender
+[  5]   0.00-30.01  sec  18.6 GBytes  5.33 Gbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201
+-----------------------------------------------------------
+iperf3: interrupt - the server has terminated
