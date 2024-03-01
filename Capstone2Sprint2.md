@@ -6,7 +6,7 @@
 * [Sprint 2 Demo Video]()
 
 ## Deliverable Statement
-The purpose of this sprint is to setup the ground work for the sprints to come. This will involve getting the intial harwdare for the LAN network setup and configured to be ready for testing and "tweaking" IoT devices. This sprint will also involve prepping for other upcoming sprints which include repeatable tasks such as meetings, data, network diagram, and etc.
+The purpose of this sprint is to get a baseline of the IoT devices connected to the network. The settings for the APs will be at their "normal" settings, testing the different: radio frequencies, channel widths, uplink/download, and speeds. This is so for Sprint 3 + 4, I can compare and contrast the different settings when they are "tweaked". This sprint will include purchasing the IoT devices, fixing previouss issues (such as AP problems), and baselining the devices connected.
 ## Objectives
 - Baseline of Devices (I.e. Having device download, uplink, bandwidth, and speeds recorded for "normal" settings)
 - Fix issues from First Sprint
@@ -16,6 +16,7 @@ The purpose of this sprint is to setup the ground work for the sprints to come. 
 - Meeting with Joe Eastman
 - Weekly Reflection
 - Update Kanban/Github (Add repeatable tasks for baseline of devices)
+- Get software for recording basline
 
 ## Weekly Reflection
 - [Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection)
