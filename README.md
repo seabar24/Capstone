@@ -4,6 +4,7 @@
 * [Capstone Project Progress](https://github.com/users/seabar24/projects/3)
 * [Capstone Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection)
 * [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone2Sprint1.md)
+* [Capstone Sprint 2](https://github.com/seabar24/Capstone/blob/Home/Capstone2Sprint2.md)
 
 ## Capstone Project Overview
 
@@ -17,6 +18,7 @@
 ## Second Semester Sprints
 > Links to each Sprint deliverables, objectives, and tasks. As well as a link to that sprint's weekly reflections
 * [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone2Sprint1.md)
+* [Capstone Sprint 2](https://github.com/seabar24/Capstone/blob/Home/Capstone2Sprint2.md)
 
 ## Mindmap Link
 > Link to mindmap w/ comments.
