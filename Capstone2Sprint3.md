@@ -4,7 +4,6 @@
 * [Kanban Board](https://github.com/users/seabar24/projects/3)
 * [Network Diagram](https://drive.google.com/file/d/1zrc5vB-Zh1cNHJ6gfCdMh-HSubxW-pPK/view?usp=sharing)
 * [Capstone Tools & Documents](https://github.com/seabar24/Capstone/tree/Home/Capstone%20Stuff)
-* [Sprint 2 Demo Video]()
 
 ## Deliverable Statement
 
