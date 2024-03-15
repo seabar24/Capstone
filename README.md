@@ -11,7 +11,7 @@
 
 ## Capstone Project Overview
 
-![image](https://github.com/seabar24/Capstone/assets/71162295/e4bfeaa5-7a0a-4430-b606-6cfed7486fa4)
+![image](https://github.com/seabar24/Capstone/assets/71162295/7ea567d6-ab4b-46d9-bbde-75de2f039196)
 
 **Optimizing IoT Devices with 802.11ax and Comparison/Contrast of v5 and v6.**
   * **Topic Definition**: IoT Devices are prevalent in todays world and need a way to be secured for customers. Usually these IoT devices will be on customer's home wifi, with these devices being on Wifi 5. Wifi 6 is coming with a more secure encryption and faster speeds, and this capstone aims to see how IoT devies can be optimized with Wifi 6. While also comparing and contrasting older version of 802.11. This would be comparing speeds, encryption methods, accessibility, and etc. Testing for vulnerabilites from older versions and v6. This can be used as a selling point to a client for why they should purchase or switch over to Wifi 6.
