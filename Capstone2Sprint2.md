@@ -19,4 +19,4 @@ The purpose of this sprint is to get a baseline of the IoT devices connected to 
 - Get software for recording basline
 
 ## Weekly Reflection
-- [Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection)
+- [Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection#sprint-2)
