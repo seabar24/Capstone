@@ -17,4 +17,4 @@ The purpose of this sprint is to setup the ground work for the sprints to come. 
 - Plan out rest of Sprints
 
 ## Weekly Reflection
-- [Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection)
+- [Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection#sprint-1)
