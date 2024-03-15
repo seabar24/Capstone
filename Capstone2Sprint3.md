@@ -16,4 +16,4 @@
 - Update Kanban/Github (Add repeatable tasks for baseline of devices)
 
 ## Weekly Reflection
-- [Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection)
+- [Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection#sprint-2)
