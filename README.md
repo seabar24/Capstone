@@ -5,6 +5,8 @@
 ## Capstone Project Progress
 * [Capstone Project Progress](https://github.com/users/seabar24/projects/3)
 * [Capstone Weekly Reflection](https://github.com/seabar24/Capstone/wiki/Weekly-Reflection)
+
+Implementation:
 * [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Semester%202/Capstone2Sprint1.md)
 * [Capstone Sprint 2](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Semester%202/Capstone2Sprint2.md)
 * [Capstone Sprint 3](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Semester%202/Capstone2Sprint3.md)
