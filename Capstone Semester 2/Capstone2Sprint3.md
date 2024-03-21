@@ -6,7 +6,7 @@
 * [Capstone Tools & Documents](https://github.com/seabar24/Capstone/tree/Home/Capstone%20Stuff)
 
 ## Deliverable Statement
-Sprint 3 will mainly be focused on tweaking the previously default/baselined Wifi settings and doing Wifi Hacking from the different versions. The tweaks will be for network speeds, latency, bandwidth, channel size, and etc. While Wifi Hacking will involve De-authentication hacking between the different encryption methods for Wifi - WPA2/3. This sprint will also involve setting up `Medium` for blog posts/final deliverable for sprint going over my conclusive thoughts of the project as a whole.
+The purpose of this Sprint will mainly be focused on tweaking the previously default/baselined Wifi settings and doing Wifi Hacking from the different versions. The tweaks will be for network speeds, latency, bandwidth, channel size, and etc. While Wifi Hacking will involve De-authentication hacking between the different encryption methods for Wifi - WPA2/3. This sprint will also involve setting up `Medium` for blog posts/final deliverable for sprint going over my conclusive thoughts of the project as a whole.
 ## Objectives
 - Tweak settings for each version of Wifi
 - Do a live, control, and hacked recording of each version of Wifi and testing for WPA2/3
