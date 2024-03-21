@@ -18,25 +18,25 @@
   * **Overview**: I'm interested in this topic as Wifi 6 is still relatively new and slowly being rolled out into devices. I wish to get ahead and start to seeing how to properly optimize commonly used IoT devices for Wifi 6 and 5 will eventually be phased out. 
   * **Description**: I plan on researching into IoT devices that are Wifi 6 compatibile and see how speeds and encryption can be optimized on the IoT Devices. As well as getting Wifi 6 routers to make a small network simulating a home wifi. Using an antenna to monitor traffic. Use a Kali machine to try and run Wifi attacks against the network. 
 
-## Second Semester Sprints
-> Links to each Sprint deliverables, objectives, and tasks. As well as a link to that sprint's weekly reflections
-* [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone2Sprint1.md)
-* [Capstone Sprint 2](https://github.com/seabar24/Capstone/blob/Home/Capstone2Sprint2.md)
-* [Capstone Sprint 3](https://github.com/seabar24/Capstone/blob/Home/Capstone2Sprint3.md)
-
 ## Mindmap Link
 > Link to mindmap w/ comments.
 * [Mindmap Link](https://drive.google.com/file/d/1R8EBa6PI2j-Inq2aMGillYrc-WuBF6wt/view?usp=sharing)
 
 ## Design Projects
 > Links to Design projects
-* [Design Project 1](https://github.com/seabar24/Capstone/blob/Home/DesignProject1.md)
-* [Design Project 2](https://github.com/seabar24/Capstone/blob/Home/DesignProject2.md)
+* [Design Project 1](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Semester%201/DesignProject1.md)
+* [Design Project 2](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Semester%201/DesignProject2.md)
 
 ## First Semester Sprint 1 + 2 Slides
 > Shows slides and progress from the first and second Sprint.
-* [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Sprint%201.pdf)
-* [Capstone Sprint 2](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Design%20Project%202.pdf)
+* [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Semester%201/Capstone%20Sprint%201.pdf)
+* [Capstone Sprint 2](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Semester%201/Capstone%20Design%20Project%202.pdf)
+
+## Second Semester Sprints
+> Links to each Sprint deliverables, objectives, and tasks. As well as a link to that sprint's weekly reflections
+* [Capstone Sprint 1](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Semester%202/Capstone2Sprint1.md)
+* [Capstone Sprint 2](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Semester%202/Capstone2Sprint2.md)
+* [Capstone Sprint 3](https://github.com/seabar24/Capstone/blob/Home/Capstone%20Semester%202/Capstone2Sprint3.md)
 
 ## References
 * [References](https://github.com/seabar24/Capstone/wiki#references)
